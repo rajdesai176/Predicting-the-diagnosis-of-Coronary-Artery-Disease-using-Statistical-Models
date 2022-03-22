@@ -29,3 +29,4 @@ Two models are selected. Model-1 has all 13 predicting variables and Model-2 has
 2. Part-2 : Model development with Logistic Regression, Decision Tree and k-nearest neighbors. Confusion matrix are created for both models applying all three methods. Mean error and type II errors are calculated.
 It is concluded that Logistic regression applied to Model-1 (Full Model with all 13 variables) generate the best model with least mean and type II error. 
 
+The R file contains the code used for the analysis. Word file has a detailes report and Presentation is also attached which has a breif summary of the analysis. 
